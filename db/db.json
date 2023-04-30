@@ -77,45 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "BRUNO CAVALCANTE PEREIRAs",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "João Amaro",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [],
-      "status": "Em produção",
-      "id": 2
-    },
-    {
-      "nome": "Nike",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Em produção",
-      "id": 3
-    },
-    {
-      "nome": "",
-      "carne": "",
-      "pao": "",
-      "opcionais": [],
-      "status": "Em produção",
-      "id": 14
-    }
-  ]
+  "burgers": []
 }
