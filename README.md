@@ -1,4 +1,4 @@
-# frontend_vue
+#MAKE YOUR BURGER
 
 ## Project setup
 ```
@@ -10,10 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### run backend - database
 ```
-npm run build
+npm run backend
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
